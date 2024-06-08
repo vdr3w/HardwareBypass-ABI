@@ -103,7 +103,7 @@ SearchAndReplaceRegistryForGPU -oldGpuName $oldGpuModel -newGpuName $newGpuModel
 
 $asciiArt = @"
 ------------------------------------------------
-"GPU TA FEITO JAPONES, AGORA PODE ABRIR O SCRIPT DO PROCESSADOR"
+"GPU TA FEITO, AGORA PODE ABRIR O SCRIPT DO PROCESSADOR"
 
                                       ___
    
@@ -125,7 +125,7 @@ $asciiArt = @"
                                                                      ".    _,"
                                                                        ".-"
    
-"GPU TA FEITO JAPONES, AGORA PODE ABRIR O SCRIPT DO PROCESSADOR"
+"GPU TA FEITO, AGORA PODE ABRIR O SCRIPT DO PROCESSADOR"
 ------------------------------------------------
 
 
