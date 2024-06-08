@@ -30,7 +30,7 @@ Write-Log "6. Copie o valor exibido abaixo."
 
 
 # Prompt the user to paste the Device Instance Path
-$deviceInstancePath = Read-Host -Prompt "Cole o 'Caminho da Instancia do Dispositivo' aqui japoneis do carai"
+$deviceInstancePath = Read-Host -Prompt "Cole o 'Caminho da Instancia do Dispositivo' aqui"
 
 # Display the collected Device Instance Path
 Write-Log "Device Instance Path collected: $deviceInstancePath"
@@ -77,7 +77,7 @@ UpdateCpuName -instancePath $deviceInstancePath -cpuName $newCpuName
 
 $asciiArt = @"
 ------------------------------------------------
-"ACABOU JAPONES, CPU REVERTIDA. Meu pipi no seu popo"
+"ACABOU, CPU REVERTIDA."
 
    
                                          ____    _     __     _    ____
@@ -92,7 +92,7 @@ $asciiArt = @"
                                                                      \__,"          '======'
    
       
-"ACABOU JAPONES, CPU REVERETIDA. Meu pipi no seu popo"
+"ACABOU, CPU REVERETIDA."
 ------------------------------------------------
 
 
